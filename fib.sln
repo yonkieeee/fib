@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fib", "fib.csproj", "{803622B8-D2A6-4C31-8C7C-AD612659876C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803622B8-D2A6-4C31-8C7C-AD612659876C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803622B8-D2A6-4C31-8C7C-AD612659876C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803622B8-D2A6-4C31-8C7C-AD612659876C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803622B8-D2A6-4C31-8C7C-AD612659876C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
